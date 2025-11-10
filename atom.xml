@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YanQS&#39;s Blog</title>
+  
+  <subtitle>YanQS&#39;s Blog</subtitle>
+  <link href="http://yanqs.me/atom.xml" rel="self"/>
+  
+  <link href="http://yanqs.me/"/>
+  <updated>2025-11-09T14:05:28.220Z</updated>
+  <id>http://yanqs.me/</id>
+  
+  <author>
+    <name>YanQS</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Welcome</title>
+    <link href="http://yanqs.me/2025/11/09/Welcome/"/>
+    <id>http://yanqs.me/2025/11/09/Welcome/</id>
+    <published>2025-11-09T13:15:07.349Z</published>
+    <updated>2025-11-09T14:05:28.220Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://yanqs.me/">YanQS’s Blog</a>!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://yanqs.me/&quot;&gt;YanQS’s Blog&lt;/a&gt;!&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
